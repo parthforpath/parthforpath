@@ -36,7 +36,7 @@ Welcome to my GitHub! I'm a passionate **Backend Developer** and **Cloud Enginee
 ## 📫 Let's Connect
 
 - LinkedIn: [linkedin.com/in/parthchopra111](https://linkedin.com/in/parthchopra111)
-- Portfolio: [parthchopra.onrender.com](https://parthchopra.onrender.com)
-- Email: [your.email@gmail.com](mailto:your.email@example.com)
+- Portfolio: [https://portfolio-l2vp.onrender.com/](https://portfolio-l2vp.onrender.com/)
+- Email: [parthchopra111@gmail.com](mailto:parthchopra111@gmail.com)
 
 Thanks for stopping by! ⭐
